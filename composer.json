@@ -1,0 +1,19 @@
+{
+  "name": "epii/epii-factory-pattern-common",
+  "description": "php 工厂模式的公共部分",
+  "authors": [
+    {
+      "name": "MrRen Epii",
+      "email": "543169072@qq.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "epii\\factory\\pattern\\": "src/"
+    }
+  }
+}
